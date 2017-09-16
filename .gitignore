@@ -3,3 +3,5 @@
 ################################################################################
 
 /packages
+/TrackManager/bin/Debug
+/TrackManagerTests/bin/Debug

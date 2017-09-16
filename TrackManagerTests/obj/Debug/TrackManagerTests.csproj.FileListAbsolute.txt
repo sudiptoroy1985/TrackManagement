@@ -1,0 +1,16 @@
+M:\Learning\TrackManager\TrackManager\TrackManagerTests\obj\Debug\TrackManagerTests.csprojResolveAssemblyReference.cache
+M:\Learning\TrackManager\TrackManager\TrackManagerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+M:\Learning\TrackManager\TrackManager\TrackManagerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+M:\Learning\TrackManager\TrackManager\TrackManagerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+M:\Learning\TrackManager\TrackManager\TrackManagerTests\bin\Debug\TrackManagerTests.dll
+M:\Learning\TrackManager\TrackManager\TrackManagerTests\bin\Debug\TrackManagerTests.pdb
+M:\Learning\TrackManager\TrackManager\TrackManagerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+M:\Learning\TrackManager\TrackManager\TrackManagerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+M:\Learning\TrackManager\TrackManager\TrackManagerTests\bin\Debug\Rhino.Mocks.dll
+M:\Learning\TrackManager\TrackManager\TrackManagerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+M:\Learning\TrackManager\TrackManager\TrackManagerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+M:\Learning\TrackManager\TrackManager\TrackManagerTests\bin\Debug\Rhino.Mocks.xml
+M:\Learning\TrackManager\TrackManager\TrackManagerTests\obj\Debug\TrackManagerTests.dll
+M:\Learning\TrackManager\TrackManager\TrackManagerTests\obj\Debug\TrackManagerTests.pdb
+M:\Learning\TrackManager\TrackManager\TrackManagerTests\bin\Debug\TrackManagement.dll
+M:\Learning\TrackManager\TrackManager\TrackManagerTests\bin\Debug\TrackManagement.pdb

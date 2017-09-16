@@ -1,0 +1,5 @@
+M:\Learning\TrackManager\TrackManager\TrackManager\obj\Debug\TrackManager.csprojResolveAssemblyReference.cache
+M:\Learning\TrackManager\TrackManager\TrackManager\bin\Debug\TrackManager.dll
+M:\Learning\TrackManager\TrackManager\TrackManager\bin\Debug\TrackManager.pdb
+M:\Learning\TrackManager\TrackManager\TrackManager\obj\Debug\TrackManager.dll
+M:\Learning\TrackManager\TrackManager\TrackManager\obj\Debug\TrackManager.pdb

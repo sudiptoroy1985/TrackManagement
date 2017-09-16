@@ -1,0 +1,4 @@
+M:\Learning\TrackManager\TrackManager\TrackManager\bin\Debug\TrackManagement.dll
+M:\Learning\TrackManager\TrackManager\TrackManager\bin\Debug\TrackManagement.pdb
+M:\Learning\TrackManager\TrackManager\TrackManager\obj\Debug\TrackManagement.dll
+M:\Learning\TrackManager\TrackManager\TrackManager\obj\Debug\TrackManagement.pdb
